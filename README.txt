@@ -13,7 +13,7 @@
 
 
 
-+ Winning ratio if you mvp's were greater than 2 = 1.220
++ Win/loss ratio if you mvp's were greater than 2 = 1.220
 
 
 
